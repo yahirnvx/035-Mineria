@@ -12,3 +12,4 @@ print(df.groupby('gender').mean(numeric_only=True))
 
 # Agrupar por estado laboral
 print(df.groupby('employment_status').mean(numeric_only=True))
+c
